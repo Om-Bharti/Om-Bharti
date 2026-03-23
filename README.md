@@ -77,7 +77,7 @@
 
 ## 📫 Connect With Me
 - 📧 Email: ombharti323@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/Om-Bharti  
+- 💼 LinkedIn: https://linkedin.com/in/Om-Bharti-  
 - 🌐 Portfolio: https://om-bharti.github.io/Om_Bharti/  
 
 ---
