@@ -1,16 +1,4 @@
-## Hi there 👋
-
-<!--
-**Om-Bharti/Om-Bharti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...<h1 align="center">Hi 👋, I'm Om Bharti</h1>
+<h1 align="center">Hi 👋, I'm Om Bharti</h1>
 <h3 align="center">VLSI & Semiconductor Devices | Wireless Communication | Embedded Systems</h3>
 
 ---
@@ -109,6 +97,3 @@ I find raccoons fascinating—they’re incredibly adaptive and efficient proble
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Om-Bharti" />
 </p>
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
