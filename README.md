@@ -90,10 +90,10 @@ I find raccoons fascinating—they’re incredibly adaptive and efficient proble
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Om-Bharti&show_icons=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Om-Bharti&layout=compact" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Om-Bharti&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Om-Bharti&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Om-Bharti" />
+  <img width="60%" src="https://streak-stats.demolab.com?user=Om-Bharti&theme=tokyonight&hide_border=true" />
 </p>
